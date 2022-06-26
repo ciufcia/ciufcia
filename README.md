@@ -8,3 +8,18 @@
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jakuppp&bg_color=0D1117&color=FF6D47&line=FF6D47&hide_border=true&custom_title=My%20Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### About me
+
+Hi! My name's Jacob. I'm currently a highschool student and want to work as a software developer in the future.
+If you want to make something together, you can contact me here: ***satola.jacob@gmail.com***
+
+---
+
+### Known languages/technologies/utilities:
+
+<img width = 10%, height = "auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img width = 10%, height = "auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> <img width = 10%, height = "auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> <img width = 10%, height = "auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> <img width = 10%, height = "auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img width = 10%, height = "auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img width = 10%, height = "auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> <img width = 10%, height = "auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /> <img width = 10%, height = "auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6D47&height=200&section=footer"/>
