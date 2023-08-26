@@ -48,13 +48,3 @@ Once I get better at math, I would like to write my own renderer. Making games c
 ## ⏱ What I'm Currently Doing
 
 Right now I'm busy with school, so I dont have much time to develop.
-
----
-
-## 📞 You Can Also Find Me On
-**ciufcia#9958**<br>
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)<br>
-**ciufciok**<br>
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)<br>
-**ja.satola@gmail.com**<br>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
